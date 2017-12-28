@@ -1,0 +1,1 @@
+It supports dynamic queries using Spring Data JPA
